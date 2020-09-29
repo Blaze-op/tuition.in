@@ -1,0 +1,36 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    max-width: 1920;
+    max-height: 1080;
+}
+
+a{
+    text-decoration: none;
+}
+
+iframe{
+    border: 5px solid gray;
+}
+
+h1{
+    color: #00aeef;
+    display: block;
+    text-align: center;
+}
+
+p{
+    size: 100px;
+}
+
+hr .a{
+    width: 100px;
+}
+
+footer a{
+    font-weight: bold;
+    color: #ff0550;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
